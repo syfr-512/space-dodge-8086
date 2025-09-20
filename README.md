@@ -73,9 +73,14 @@ link /T SDODGE.OBJ
 5. Run it:
 SDODGE
 
-Note: There may be some code incompatibility when compiling with TASM/MASM so keep that in mind.
+> ⚠️ NOTE: For DOSBox, file names must be 8 characters or fewer (not counting `.COM`).  
+> `SDODGE.COM` is DOS-compatible, while `SPACE_DODGE.COM` will not run.
+> There may be some code incompatibility when compiling with TASM/MASM so keep that in mind.
+
 
 ## 🎥 Demo
+
+
 
 ## ✨ Credits
 
@@ -89,3 +94,4 @@ Runs flawlessly in DOSBox.
 
 This entire game is written in low-level assembly language.
 No fancy engines. No frameworks. Just pure 8086 metal.
+

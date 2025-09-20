@@ -18,6 +18,12 @@ But danger lurks above — meteors `@` rain down endlessly. Your mission? **Dodg
 
 ---
 
+## 🎥 Demo
+
+![Space Dodge Demo](demo.gif)
+
+---
+
 ## 🕹️ Controls
 
 | Key   | Action        |
@@ -79,11 +85,6 @@ SDODGE
 > `SDODGE.COM` is DOS-compatible, while `SPACE_DODGE.COM` will not run.
 > There may be some code incompatibility when compiling with TASM/MASM so keep that in mind.
 
-
-## 🎥 Demo
-
-![Space Dodge Demo](demo.gif)
-
 ## ✨ Credits
 
 Game created by: syfr
@@ -96,6 +97,3 @@ Runs flawlessly in DOSBox.
 
 This entire game is written in low-level assembly language.
 No fancy engines. No frameworks. Just pure 8086 metal.
-
-
-

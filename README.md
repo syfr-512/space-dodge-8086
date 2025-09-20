@@ -53,7 +53,7 @@ SDODGE
 
 ### Option 2 — Compile Yourself (Two Ways)
 
-I have already included a pre-compiled COM file specifically for DOSBOX but if you wish to compile it yourself, there's two ways of doing this.
+*I've already included a pre-compiled COM file specifically for DOSBOX but if you wish to compile it yourself, there's two ways of doing this.*
 
 (a) Using Emu8086 (Windows only. This is the one I used.)
 
@@ -97,3 +97,4 @@ Runs flawlessly in DOSBox.
 
 This entire game is written in low-level assembly language.
 No fancy engines. No frameworks. Just pure 8086 metal.
+

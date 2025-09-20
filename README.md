@@ -82,7 +82,7 @@ SDODGE
 
 ## 🎥 Demo
 
-
+![Space Dodge Demo](demo.gif)
 
 ## ✨ Credits
 
@@ -96,5 +96,6 @@ Runs flawlessly in DOSBox.
 
 This entire game is written in low-level assembly language.
 No fancy engines. No frameworks. Just pure 8086 metal.
+
 
 

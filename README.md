@@ -37,10 +37,12 @@ But danger lurks above — meteors `@` rain down endlessly. Your mission? **Dodg
 2. Open DOSBox.
 
 3. Mount the folder:
-mount c path\to\space-dodge-8086
-c:
+   mount c path\to\space-dodge-8086
 
-4. Run the game:
+4. Navigate to the drive:
+   c:
+
+5. Run the game:
 SDODGE
 
 ### Option 2 — Compile Yourself (Two Ways)
@@ -59,9 +61,9 @@ I have already included a pre-compiled COM file specifically for DOSBOX but if y
 
 1. Install MASM or TASM (available online, or bundled with DOSBox packs).
 
-2. In DOSBox, navigate to the game folder:
-mount c path\to\space-dodge-8086
-c:
+2. In DOSBox, mount & then navigate to the game folder:
+i. mount c path\to\space-dodge-8086
+ii. c:
 
 3. Assemble the source:
 masm SDODGE.ASM;
@@ -94,4 +96,5 @@ Runs flawlessly in DOSBox.
 
 This entire game is written in low-level assembly language.
 No fancy engines. No frameworks. Just pure 8086 metal.
+
 
